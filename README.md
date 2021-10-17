@@ -57,3 +57,7 @@ public class Area {
 - Nonetheless, compared to awt, swing exhibits key advantages
 - One is that swing is platform independent, while awt is platform dependent
 - Moreover, swing has more components, and its components are lightweight, compared to awt
+### Java Swing Classes Hierarchy
+- The image below shows the API aspects for Java swing
+![swinghierarchy](https://user-images.githubusercontent.com/77758884/137627093-1740b5b8-911f-43f8-890c-45fb3b18bcc0.jpg)
+
