@@ -8,7 +8,7 @@
 <hr>
 
 - To make this possible, importing useful Java packages becomes useful, one being the swing package
-#### Java swing
+### Java swing
 - By explaination; Java swing forms part of Java Foundation Classes (JFC) used in creating window-based applications.
 - It is built on the top of AWT (Abstract Windowing Toolkit) API and entirely written in java.
 - Unlike AWT, Java Swing provides platform-independent and lightweight components.
@@ -21,9 +21,7 @@
           - 5. JCheckbox
           - 6. JMenu
           - 7. JColorChooser
-
-
-
+### Java Script
 <code>
 <pre>
 package area;
@@ -44,3 +42,9 @@ public class Area {
 }
 </pre> 
 </code>
+
+### Sample Runtime Screen: Input 12 and 280
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/77758884/137625874-f56776ef-c4d8-41ca-ae04-3ccadbf87cdc.png) ![image](https://user-images.githubusercontent.com/77758884/137625909-e1fe0a31-bfef-4aed-86d0-e0f93b718662.png) ![image](https://user-images.githubusercontent.com/77758884/137625891-9c4790d8-c9ed-46ab-bbc3-7316b23ef811.png)
+</div>
