@@ -25,16 +25,14 @@
 
 
 <code>
-  <pre>
-  
-package shapes;
+<pre>
+package area;
 import javax.swing.JOptionPane;
 /**
- *
  * @author Danny-votez
  */
-public class Shapes {
-        public static void main(String[] args){
+public class Area {    
+    public static void main(String[] args){
         float area;
         String length, width;        
         length = JOptionPane.showInputDialog(null,"Enter Length");
@@ -44,6 +42,5 @@ public class Shapes {
         System.exit(0);
     }
 }
-
 </pre> 
 </code>
