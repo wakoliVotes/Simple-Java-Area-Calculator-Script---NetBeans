@@ -48,3 +48,10 @@ public class Area {
 
 ![image](https://user-images.githubusercontent.com/77758884/137625874-f56776ef-c4d8-41ca-ae04-3ccadbf87cdc.png) ![image](https://user-images.githubusercontent.com/77758884/137625909-e1fe0a31-bfef-4aed-86d0-e0f93b718662.png) ![image](https://user-images.githubusercontent.com/77758884/137625891-9c4790d8-c9ed-46ab-bbc3-7316b23ef811.png)
 </div>
+<hr>
+### Summary
+- awt and swing forms key aspects of the Java Foundation Class (JFC)
+- awt stands for Abstract Windowing Toolkit
+- Nonetheless, compared to awt, swing exhibits key advantages
+- One is that swing is platform independent, while awt is platform dependent
+- Moreover, swing has more components, and its components are lightweight, compared to awt
